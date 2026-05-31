@@ -6,7 +6,7 @@ Cuento con experiencia de 6 meses certificable en el desarrollo de apps tipo esc
 
 Tambien tengo certificaciones al respecto de mis habilidades en java, python, javascript y go estos se encuentran en mi cuenta de Linkedin
 
-Actualmente estoy emprendiendo en el mundo de C#, proximamente se vera sobre mis proximos proyectos con este lenguaje
+Actualmente estoy emprendiendo en el mundo de C#, proximamente se vera sobre mis primeros proyectos con este lenguaje
 
 
 
