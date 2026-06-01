@@ -8,7 +8,7 @@ Tambien tengo certificaciones al respecto de mis habilidades en java, python, ja
 
 Actualmente estoy emprendiendo en el mundo de C#, proximamente se vera sobre mis primeros proyectos con este lenguaje
 
-## 💻 Tecnologías
+## Tecnologías usadas:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
