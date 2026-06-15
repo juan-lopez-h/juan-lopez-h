@@ -21,7 +21,8 @@ Actualmente estoy emprendiendo en el mundo de C#, proximamente se vera sobre mis
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) \
+
 https://www.linkedin.com/in/juan-david-lopez-hernandez-2264b1261/ \
 
 Correo en caso de querer contactarme: juand.lopezh@uqvirtual.edu.co \
