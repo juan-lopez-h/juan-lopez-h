@@ -1,6 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=Desarrollador%20Backend%20Junior&textBg=false&section=header&reversal=false&fontSize=55" />
 
-# Hola a todos mi nombre es Juan David Lopez H 
+# Hola a todos bienvenidos a mi perfil
+# Mi nombre es Juan David Lopez H 
 ## Soy un estudiante de ultimo semestre de Ingenieria de Sistemas y Computación  
 Me apasiona el desarrollo de software y la construccion de diferentes soluciones para problematicas tanto reales como academicas. 
 Cuento con experiencia en desarrollo de aplicaciones moviles, aplicaciones de escritorio con C# y tambien en desarrollo web con java Springboot y next.js para backend, por otro lado en frontend he manejado react
