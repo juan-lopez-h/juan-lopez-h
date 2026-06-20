@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=black&text=Desarrollador%20Backend%20Junior&textBg=false&section=header&reversal=false&fontSize=55" />
 
 # Hola a todos bienvenidos a mi perfil
+
+
 # Mi nombre es Juan David Lopez H 
 ## Soy un estudiante de ultimo semestre de Ingenieria de Sistemas y Computación  
 Me apasiona el desarrollo de software y la construccion de diferentes soluciones para problematicas tanto reales como academicas. 
@@ -12,6 +14,7 @@ Tambien tengo certificaciones al respecto de mis habilidades en java, python, ja
 Actualmente estoy emprendiendo en el mundo de C#, proximamente se vera sobre mis primeros proyectos con este lenguaje
 
 ## Tecnologías usadas:
+
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -28,6 +31,7 @@ Actualmente estoy emprendiendo en el mundo de C#, proximamente se vera sobre mis
 
 ## Mis redes:
 
+
 <a href="https://www.linkedin.com/in/juan-david-lopez-hernandez-2264b1261/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -37,6 +41,7 @@ Actualmente estoy emprendiendo en el mundo de C#, proximamente se vera sobre mis
 <a href="mailto:juand.lopezh@uqvirtual.edu.co ">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
 </a>
+
 
 Sientansen libres de contactarse conmigo, gracias por visitar mi perfil. 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Gracias%20por%20ver&textBg=false&section=footer&reversal=false" />
